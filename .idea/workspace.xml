@@ -22,13 +22,42 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001ab752-3bf3-40f1-95a2-ef8c70aa17c7" name="Default Changelist" comment="Created service interfaces and objects, modified models for ease of query">
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/sennovate/controller/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/sennovate/controller/PartnerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="001ab752-3bf3-40f1-95a2-ef8c70aa17c7" name="Default Changelist" comment="Created controllers">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/sennovate/app/SpringBootDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api/api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/dto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dto/dto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/models.iml" beforeDir="false" afterPath="$PROJECT_DIR$/models/models.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/PartnerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/PartnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sennovate-hw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sennovate-hw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +104,26 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="SpringBootDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sennovate.app.SpringBootDriver" />
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sennovate.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootDriver" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -105,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610079069067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created controllers">
+      <created>1610080533729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610080533729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +185,8 @@
     <MESSAGE value="Splitted model classes to separate module" />
     <MESSAGE value="Created DTO objects" />
     <MESSAGE value="Created service interfaces and objects, modified models for ease of query" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created service interfaces and objects, modified models for ease of query" />
+    <MESSAGE value="Created controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created controllers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2954" y="160" key="#Plugins" timestamp="1610070257773">
@@ -176,6 +233,22 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3184" y="439" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610046050724" />
+    <state width="910" height="279" key="GridCell.Tab.0.bottom" timestamp="1610082378646">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082378646" />
+    <state width="910" height="279" key="GridCell.Tab.0.center" timestamp="1610082378646">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082378646" />
+    <state width="910" height="279" key="GridCell.Tab.0.left" timestamp="1610082378646">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082378645" />
+    <state width="910" height="279" key="GridCell.Tab.0.right" timestamp="1610082378646">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082378646" />
     <state x="2842" y="164" key="SettingsEditor" timestamp="1610047329780">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -184,10 +257,42 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3246" y="436" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610046252083" />
-    <state x="2951" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610065609358">
+    <state x="2951" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610080540204">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2951" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610065609358" />
+    <state x="2951" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610080540204" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-1" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-2" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-3" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-4" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-5" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-5/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-6" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-6/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-7" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-7/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
+    <state x="2977" y="100" width="770" height="840" key="dock-window-8" timestamp="1610082443813">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2977" y="100" width="770" height="840" key="dock-window-8/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610082443813" />
     <state x="2605" y="180" key="new project wizard" timestamp="1610059246128">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -196,5 +301,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3022" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610070247576" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sennovate_hw$SpringBootDriver.ic" NAME="SpringBootDriver Coverage Results" MODIFIED="1610082378624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sennovate.app.*</FILTER>
+    </SUITE>
   </component>
 </project>

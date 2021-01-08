@@ -1,7 +1,6 @@
 package com.sennovate.repository;
 
 
-import com.sennovate.models.Client;
 import com.sennovate.models.Partner;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
