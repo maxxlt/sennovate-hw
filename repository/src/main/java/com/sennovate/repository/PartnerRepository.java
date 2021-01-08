@@ -1,9 +1,16 @@
 package com.sennovate.repository;
 
 
+import com.sennovate.models.Client;
 import com.sennovate.models.Partner;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-public interface PartnerRepository extends MongoRepository<Partner, Long> {
+import java.util.List;
+import java.util.Optional;
 
+public interface PartnerRepository extends MongoRepository<Partner, Long> {
+    void delete(Partner partner);
+    List<Partner> findAll();
+    Optional<Partner> findOne(long id);
+    Partner save(Partner partner);
 }
