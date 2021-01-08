@@ -23,9 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001ab752-3bf3-40f1-95a2-ef8c70aa17c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/models.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/src/main/java/com/sennovate/models/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/src/main/java/com/sennovate/models/Partner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/PartnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +48,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,14 +64,22 @@
     </option>
   </component>
   <component name="ProjectId" id="1mklw0cyd7FyEN3VlM0jRkYajkp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,10 +115,30 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3135" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610047147456" />
+    <state x="3164" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1610048802283">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3164" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610048802283" />
+    <state x="3090" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610059351258">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3090" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610059351258" />
     <state x="3040" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610045727286">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3040" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610045727286" />
+    <state x="2965" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1610048584788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2965" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610048584788" />
+    <state x="3143" y="384" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610059392120">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3143" y="384" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610059392120" />
+    <state x="2973" y="100" width="773" height="840" key="DiffContextDialog" timestamp="1610047908127">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2973" y="100" width="773" height="840" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610047908127" />
     <state x="3184" y="439" key="Github.CreateGistDialog" timestamp="1610046050724">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -109,9 +151,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3246" y="436" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610046252083" />
-    <state x="2981" y="180" key="new project wizard" timestamp="1610045864170">
+    <state x="2605" y="180" key="new project wizard" timestamp="1610059246128">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2981" y="180" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610045864170" />
+    <state x="2605" y="180" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610059246128" />
+    <state x="3022" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1610059741905">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3022" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610059741905" />
   </component>
 </project>

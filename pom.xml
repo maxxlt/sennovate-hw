@@ -9,7 +9,8 @@
 		<module>dto</module>
 		<module>repository</module>
 		<module>utils</module>
-	</modules>
+        <module>models</module>
+    </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
