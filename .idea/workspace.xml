@@ -22,22 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001ab752-3bf3-40f1-95a2-ef8c70aa17c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/src/main/java/com/sennovate/models/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/src/main/java/com/sennovate/models/Partner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/sennovate/repository/PartnerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
+    <list default="true" id="001ab752-3bf3-40f1-95a2-ef8c70aa17c7" name="Default Changelist" comment="Splitted model classes to separate module">
+      <change afterPath="$PROJECT_DIR$/dto/src/main/java/com/sennovate/dto/ClientDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dto/src/main/java/com/sennovate/dto/PartnerDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1610045705644</updated>
     </task>
+    <task id="LOCAL-00001" summary="Splitted model classes to separate module">
+      <created>1610064973319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610064973319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +104,9 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/sennovate-hw" />
     </ignored-roots>
+    <MESSAGE value="Refactored modules" />
+    <MESSAGE value="Splitted model classes to separate module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Splitted model classes to separate module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3135" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610047147456">
@@ -151,6 +149,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3246" y="436" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610046252083" />
+    <state x="2951" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610064982039">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2951" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610064982039" />
     <state x="2605" y="180" key="new project wizard" timestamp="1610059246128">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
